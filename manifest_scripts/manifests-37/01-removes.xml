@@ -16,5 +16,4 @@
   <remove-project name="LineageOS/android_hardware_interfaces" />
   <remove-project name="LineageOS/android_system_core" />
   <remove-project name="LineageOS/android_system_vold" />
-  <remove-project name="LineageOS/android_packages_apps_TvSettings" />
 </manifest>
